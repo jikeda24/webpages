@@ -1,19 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Jun Ikeda
+ *UnityID: jikeda
+ *Date: 04/07/23
+ *Assignment: Guide Lab 4
+ *Description: Guided Lab Assignment, about me page
  */
  
 p {
-    property: value;
+	font-family: Times;
+	font-size: 16px;
+	color: #FFFFFF;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+    max-heigth: 300px;
 }
